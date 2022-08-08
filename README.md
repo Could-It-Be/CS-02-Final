@@ -1,2 +1,2 @@
 # CS-02-Final
-ho-
+This was a school project for a grade 12 university-level course at our school. Our final goal is to build a fully functional boggle game that supports PvP and PvE. We encountered many problems, but we were still successful in programming a boggle game with Java. Our final product contains the main page, settings page, PvP, PvE, timer, background music, and all the necessary player interfaces. We built the project in a team of 4. We hope you enjoy the game.
